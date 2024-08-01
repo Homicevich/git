@@ -1,1 +1,1 @@
-git is awsome
+add better message to message file
