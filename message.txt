@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 git is awsome
+=======
+add better message to message file
+from new repo
+stash2
+>>>>>>> Stashed changes
